@@ -1,0 +1,1 @@
+Make sure to clone this into the right repository and to open this project in editor version 2022.3.5f1 or higher, though the mentioned one is recommended
